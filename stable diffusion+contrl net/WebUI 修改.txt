@@ -1,0 +1,12 @@
+
+
+注意点2：(webui-user.bat)
+
+@echo off
+
+set PYTHON=
+set GIT=
+set VENV_DIR=
+set COMMANDLINE_ARGS=--api --lowvram --theme dark
+git pull
+call webui.bat
