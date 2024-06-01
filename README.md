@@ -1,3 +1,3 @@
 # landscape-grasshopper
-收集景观中常用的grasshopper插件，以及教程
-欢迎感兴趣的同学来丰富
+### 开始
+有感于设计院生产工具与效率的低下，想利用GHpython来进行插件开发，生产力解放计划就此开启。
